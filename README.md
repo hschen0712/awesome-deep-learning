@@ -6,6 +6,8 @@
 
 * **[Courses](#courses)**  
 
+* **[Slides](#slides)**
+
 * **[Videos and Lectures](#videos-and-lectures)**  
 
 * **[Papers](#papers)**  
@@ -60,6 +62,10 @@
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
 20.[Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+
+### Slides
+1. [Active research areas in deep learning for NLP](https://pan.baidu.com/s/1cqZcD4)
+
 ### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
