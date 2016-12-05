@@ -64,7 +64,7 @@
 20.[Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 
 ### Slides
-1. [Active research areas in deep learning for NLP](https://pan.baidu.com/s/1cqZcD4)
+1. [Active research areas in deep learning for NLP](https://pan.baidu.com/s/1cqZcD4) By Sam Bowman
 
 ### Videos and Lectures
 
