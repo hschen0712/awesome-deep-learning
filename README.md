@@ -6,6 +6,8 @@
 
 * **[Courses](#courses)**  
 
+* **[Data](#Data)**
+
 * **[Slides](#slides)**
 
 * **[Videos and Lectures](#videos-and-lectures)**  
@@ -62,6 +64,12 @@
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
 20.[Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+
+### Data
+
+1.Machine Translation
+- [TalentSRS](https://github.com/TalentSRS)
+- [Lemmih/Lesschobo](https://github.com/Lemmih/lesschobo)
 
 ### Slides
 1. [Active research areas in deep learning for NLP](https://pan.baidu.com/s/1cqZcD4) By Sam Bowman
